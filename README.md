@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iradri
 - 👀 I’m interested in ... AI, Mechine Learning, Software Development, Gmae dev
-- 🌱 I’m currently learning ... Masters in Computer Science
+- 🌱 I’m currently learning ... Masters in Computer Application
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 - ✉️Email -> iradridascompsci@gmail.com
